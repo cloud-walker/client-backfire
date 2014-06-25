@@ -1,3 +1,5 @@
+# The package is actually unmaintained and has been unpublished.
+
 client-backfire
 ===============
 
